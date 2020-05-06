@@ -33,5 +33,5 @@ Ouvrie le dossier avec AndroidStudio.
 #TESTS
 
 Unitaire : app/java/com.openclassrooms.entrevoisins.service/NeighbourServiceTest
-D'intégrations : - app/java/com.openclassrooms.entrevoisins(androidTest)/neighbour_list/NeighbourListTest
-                 - app/java/com.openclassrooms.entrevoisins(androidTest)/neighbour_profil/NeighbourProfilTest
+D'intégrations : -app/java/com.openclassrooms.entrevoisins(androidTest)/neighbour_list/NeighbourListTest
+                 -app/java/com.openclassrooms.entrevoisins(androidTest)/neighbour_profil/NeighbourProfilTest
