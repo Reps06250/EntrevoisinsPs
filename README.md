@@ -35,14 +35,14 @@ Rendez vous à l'adresse https://github.com/Reps06250/EntrevoisinsPS, 2 méthode
 
 Vous pouvez exécuter l'app soit sur un matériel physique connecté, soit avec un matériel émulé.
 
-#Création d'un périphérique émulé
+- Création d'un périphérique émulé :
 Onglet Run/Select Device.../Open AVD Manager puis Create Virtual Device...
 Choisir un telephone ou une tablette, next, choisir l'api recommandé (minimum 21) et télécharger si besoin, next, choisir un nom et finish.
 
-#Choix du périphérique sur lequel compiler
+- Choix du périphérique sur lequel compiler :
 Run/Select Device...
 
-#compilation et exécution
+- compilation et exécution :
 Run/Run 'app'
 
 #TESTS
